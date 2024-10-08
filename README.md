@@ -26,3 +26,4 @@ The aim of this project is to make a replicate of Zerodha.com
 ###### Products
 ![Page 3](https://github.com/amananku26/Zerodha-Clone/blob/main/assets/img4.png)
 # zerodha-clone
+# zerodha
